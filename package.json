@@ -1,0 +1,30 @@
+{
+  "name": "@nothingcloud/status",
+  "version": "1.0.1",
+  "description": "Module created in order to provide certain information about your applications.",
+  "main": "src/index.js",
+  "types": "@types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nothing Cloud | Development Team",
+  "license": "Apache-2.0",
+  "keywords": [
+    "discord",
+    "bot",
+    "status",
+    "ram",
+    "nothing",
+    "cloud",
+    "nothingcloud",
+    "host"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nothingcloudofc/nothingcloud-status.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nothingcloudofc/nothingcloud-status/issues"
+  },
+  "homepage": "https://github.com/nothingcloudofc/nothingcloud-status#readme"
+}
